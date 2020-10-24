@@ -1,0 +1,6 @@
+public class Hello{
+	public int index;
+	pulic void increment(){
+		index++;
+	}
+}
